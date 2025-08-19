@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     shortcut: "/images/yanyu-logo.png",
     apple: "/images/yanyu-logo.png",
   },
-    generator: 'v0.dev'
+    generator: 'v0.app'
 }
 
 export default function RootLayout({
