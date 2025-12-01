@@ -280,6 +280,10 @@ docker-compose logs -f education-app
 docker-compose logs -f postgres
 \`\`\`
 
+# GitHub: https://github.com/YY-Nexus/Cloud-JY.git
+
+# 项目URL：https://edu.mymgmt.com.cn/
+
 ### 备份恢复
 \`\`\`bash
 # 数据库备份
